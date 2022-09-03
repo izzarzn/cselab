@@ -27,7 +27,7 @@ class StudentDetails{
   
 public static void main( String[] args){
   Scanner scan = new Scanner(System.in);
-  System.out.println("Enter the number of student details to be created"):
+  System.out.println("Enter the number of student details to be created");
   int n = scan.nexrInt();
   
   //Read number of students into array
