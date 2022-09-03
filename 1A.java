@@ -20,7 +20,22 @@ void read(){
 }
   void display(){
     System.out,print(USN+"\t"+Name+"\t"+Branch+"\t"+Phone);
+  }
+}
 
-public static void main( String[] args)
-{
+class StudentDetails{
+  
+public static void main( String[] args){
+  Scanner scan = new Scanner(System.in);
+  System.out.println("Enter the number of student details to be created"):
+  int n = scan.nexrInt();
+  
+  //Read number of students into array
+  for(i=0;i<n;i++){
+    s[i] = new student();
+    s[i].read();
+  
+ }
+}
+  
   
