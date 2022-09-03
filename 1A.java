@@ -16,6 +16,10 @@ void read(){
   Branch = scan.next();
   System.out.printf("Enter Phone");
   Phone = scan.next();
+  
+}
+  void display(){
+    System.out,print(USN+"\t"+Name+"\t"+Branch+"\t"+Phone);
 
 public static void main( String[] args)
 {
