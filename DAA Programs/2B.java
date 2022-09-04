@@ -15,5 +15,5 @@ class Customer {
                 System.out.print(",");
               }
        }
-                       }
-              }  
+    }
+ }  
