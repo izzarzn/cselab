@@ -30,7 +30,7 @@ super.read(); // call super class read method
   System.out.println("Enter Publication");
   Publication = input.nextLine();
   }
-void display() {
+void display_Teaching() {
 super.display(); // call super class display() method 
   System.out.printf("%-15s", "DOMAIN:"); 
   System.out.printf("%-15s \n", Domain); 
@@ -43,7 +43,7 @@ super.read(); // call super class read method
   System.out.println("Enter Skills");
 Skills = input.nextLine();
 }
-void display() {
+void display_Technical() {
 super.display(); // call super class display() method
   System.out.printf("%-15s", "SKILLS:");
   System.out.printf("%-15s \n", Skills);
@@ -54,7 +54,7 @@ super.read(); // call super class read method
   System.out.println("Enter Period");
 Period = input.nextLine();
 }
-void display() {
+void display_Contract() {
 super.display(); // call super class display()
   method System.out.printf("%-15s", "PERIOD:");
   System.out.printf("%-15s \n", Period);
@@ -86,15 +86,16 @@ scon[i].read_Contract();
 // Display Staff Information
 System.out.println("\n STAFF DETAILS: \n");
   System.out.println("-----TEACHING STAFF DETAILS----- ");
-for (int i = 0; i < n; i++) { steach[i].display();
+for (int i = 0; i < n; i++) {
+  steach[i].display_Teaching();
 }
 System.out.println();
 System.out.println("-----TECHNICAL STAFF DETAILS-----");
   for (int i = 0; i < n; i++) {
-stech[i].display(); }
+stech[i].display_Technical(); }
 System.out.println();
 System.out.println("-----CONTRACT STAFF DETAILS-----"); 
   for (int i = 0; i < n; i++) {
-scon[i].display(); }
+scon[i].display_Contract(); }
 input.close(); }
 }
