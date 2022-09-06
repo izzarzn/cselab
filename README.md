@@ -1,21 +1,21 @@
 ### 3rd SEM
 
-|**DSA Lab**|                        
+|**Data Structures and Applications Laboratory**|                        
 |:-------:|
 | [Click Here](DSA.md) |
  
-|**ADE Lab**|
+|**Analog Digital Electronics Laboratory **|
 |:-------:|
 |[Click Here](ADE.md)|
 
 
 ### 4th SEM
 
-|**MC Lab**|
+|**Microcontroller Laboratory**|
 |:-------:|
 | [Click Here](MC.md) |
  
-|**DAA Lab**|
+|**Design and Analysis of Algorithm Laboratory**|
 |:-------:|
 |[Click Here](DAA.md)|
 
