@@ -1,21 +1,21 @@
-## 3rd SEM
+### 3rd SEM
 
-|**DSA Lab Programs**|
+|**DSA Lab**|                        
 |:-------:|
 | [Click Here](DSA.md) |
  
-|**ADE Lab Programs**|
+|**ADE Lab**|
 |:-------:|
 |[Click Here](ADE.md)|
 
 
-## 4th SEM
+### 4th SEM
 
-|**MC Lab Programs**|
+|**MC Lab**|
 |:-------:|
 | [Click Here](MC.md) |
  
-|**DAA Lab Programs**|
+|**DAA Lab**|
 |:-------:|
 |[Click Here](DAA.md)|
 
