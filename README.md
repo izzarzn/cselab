@@ -15,7 +15,7 @@
  
 |**Design and Analysis of Algorithm Laboratory (18CSL47)**|
 |:-------|
-|[Click Here](DAA Programs/DAA.md)|
+|[Click Here](https://github.com/izzarzn/cselab/blob/e0da39a2b84aaf53b1e27306a397823a32635df7/DAA%20Programs/DAA.md)|
 
 |**Microcontroller Laboratory (18CSL48)**|
 |:--------------------------------|
