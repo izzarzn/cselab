@@ -15,7 +15,7 @@
  
 |**Design and Analysis of Algorithm Laboratory (18CSL47)**|
 |:-------|
-|[Click Here](DAA.md)|
+|[Click Here](DAA Programs/DAA.md)|
 
 |**Microcontroller Laboratory (18CSL48)**|
 |:--------------------------------|
