@@ -4,11 +4,9 @@
 |:---------|
 |[Click Here](ADE.md)|
 
-
-|**Data Structures Laboratory (18CSL38)**|                        
-|:--------------------------|
-| [Click Here](DSA.md) |
-
+|**Data Structures Laboratory (18CSL38)**|
+|:-----------|
+| [Click Here](DSA.md) | 
 
 ### 4th SEM
 
