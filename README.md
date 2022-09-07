@@ -8,10 +8,6 @@
 |:-----------|
 | [Click Here](DSA.md) | 
 
-| **Programs(DS)**|**code**|
-|:--------:|:----------:|
-|1 - Array Operations | [Source code](https://github.com/SKsaikiran/cselab/blob/2bf4bc8d36cc4448ff94977e08300f99c0854f03/DSA/1_Array_Operations/1_Array_Operation.c) |
-
 ### 4th SEM
 
  
