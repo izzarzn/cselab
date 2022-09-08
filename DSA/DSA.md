@@ -18,8 +18,8 @@
 
 | **Program 3** | **Design, Develop and Implement a menu driven program in C for operations on STACK of integers.** |
 |:----:|:----:|
-| Source code | [Click here](https://github.com/SKsaikiran/cselab/blob/02adfb925ca04acc4703ff68f903df4abe90c9d3/DSA/Program_3/operations_on_Stack.c) |
-| About | [Click here](https://github.com/SKsaikiran/cselab/blob/02adfb925ca04acc4703ff68f903df4abe90c9d3/DSA/Program_3/About.md) |
+| Source code | [Click here](https://github.com/SKsaikiran/cselab/blob/c85d424f4bdcae8f30462c30f6c140eededac1d4/DSA/Program_3/operations_on_Stack.c) |
+| About | [Click here](https://github.com/SKsaikiran/cselab/blob/c85d424f4bdcae8f30462c30f6c140eededac1d4/DSA/Program_3/About.md) |
 | Result | [Click here](https://github.com/SKsaikiran/cselab/blob/64cb5ab4de266c7adfbf19c9f2c7351f63535563/DSA/Program_3/Result.md) |
 
 --------------
