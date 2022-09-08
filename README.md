@@ -2,7 +2,7 @@
 
 |**Analog Digital Electronics Laboratory (18CSL37)**|
 |:---------|
-|[Click Here](ADE.md)|
+|[Click Here](ADE/ADE.md)|
 
 |**Data Structures Laboratory (18CSL38)**|
 |:-----------|
