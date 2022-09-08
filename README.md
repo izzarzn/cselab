@@ -6,7 +6,7 @@
 
 |**Data Structures Laboratory (18CSL38)**|
 |:-----------|
-| [Click Here](DSA.md) | 
+| [Click Here](https://github.com/SKsaikiran/cselab/blob/b1bd4b714fb0610bfa5f8a46103460166a26b93b/DSA/DSA.md) | 
 
 ### 4th SEM
 
