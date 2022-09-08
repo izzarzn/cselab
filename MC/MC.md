@@ -30,7 +30,7 @@
 
 |**Program 5**|
 |:------------------|
-|**5. Write an Assembly Language Program (ALP) to find the square of a number (1 to 10) using look-up table. **|
+|**5. Write an Assembly Language Program (ALP) to find the square of a number (1 to 10) using look-up table.**|
 |  [Click Here](https://github.com/SKsaikiran/cselab/blob/b1105e0443010047bdec2c9ebbf6695becd48de0/MC/Software/5.Program)|
    
 --------------
@@ -84,36 +84,36 @@
 |**Program 4**|
 |:------------------|
 |**4. Determine Digital output for a given Analog input using Internal ADC of ARM controller.**|
-|  [Click Here]()|
+| [Click Here](https://github.com/SKsaikiran/cselab/blob/0ff81c4784b0f6c397012257ef171da0b1f7b45a/MC/Hardware/4.Digital%20output%20for%20a%20given%20Analog%20input.c)|
    
 --------------
 
 |**Program 5**|
 |:------------------|
 |**5. Interface a DAC and generate Triangular and Square waveforms.**|
-| Triangle Wave. [Click Here]()|
-| Square Wave. [Click Here]()|
+| Triangle Wave. [Click Here](https://github.com/SKsaikiran/cselab/blob/0ff81c4784b0f6c397012257ef171da0b1f7b45a/MC/Hardware/5.A.Triangle%20Wave.c)|
+| Square Wave. [Click Here](https://github.com/SKsaikiran/cselab/blob/0ff81c4784b0f6c397012257ef171da0b1f7b45a/MC/Hardware/5.B.Square%20Wave.c)|
    
 --------------
 
 |**Program 6**|
 |:------------------|
 |**6. Interface a 4x4 keyboard and display the key code on an LCD.**|
-|  [Click Here]()|
+|  [Click Here](https://github.com/SKsaikiran/cselab/blob/f873995cada016b026c6adae363eb0b8abc62784/MC/Hardware/6.4x4%20keyboard.c)|
    
 --------------
 
 |**Program 7**|
 |:------------------|
 |**7. Demonstrate the use of an external interrupt to toggle an LED On/Off.**|
-|  [Click Here]()|
+|  [Click Here](https://github.com/SKsaikiran/cselab/blob/87208d3c0bab9497ee4e4b8660960a2b339fbc07/MC/Hardware/7.External%20interrupt.c)|
    
 --------------
 
 |**Program 8**|
 |:------------------|
 |**8. Display the Hex digits 0 to F on a 7-segment LED interface, with an appropriate delay in between.**|
-|  [Click Here]()|
+|  [Click Here](https://github.com/SKsaikiran/cselab/blob/0ff81c4784b0f6c397012257ef171da0b1f7b45a/MC/Hardware/8.7-segment.c)|
    
 --------------
 
