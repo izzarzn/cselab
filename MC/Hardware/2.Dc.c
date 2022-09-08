@@ -1,4 +1,8 @@
-#include<LPC214x.H> #define CLK1 (1<<16) #define ACLK2 (1<<17) #define STOP3 (1<<18) int main (void)
+#include<LPC214x.H> 
+#define CLK1 (1<<16) 
+#define ACLK2 (1<<17) 
+#define STOP3 (1<<18) 
+int main (void)
 {
 //IO1DIR=0X0007000;
 IODIR0 =0XE0;

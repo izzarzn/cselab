@@ -17,4 +17,4 @@
 
 |**Microcontroller Laboratory (18CSL48)**|
 |:--------------------------------|
-| [Click Here](MC.md) |
+| [Click Here](https://github.com/SKsaikiran/cselab/blob/5b5ddc45eff07cab32e74d995634194370b7a899/MC/MC.md) |
