@@ -1,1 +1,10 @@
-
+  AREA MULTIPLY, CODE, READONLY
+    ENTRY
+    LDR R0, A
+    LDRH R1, [R0]
+    LDRH R2, [R0, #2]
+    MUL R3, R2, R1
+    STRH R3, [R0, #4]
+B1 B B1
+A DCD 0X40000000
+    END
