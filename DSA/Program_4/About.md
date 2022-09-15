@@ -24,19 +24,19 @@ Infix to prefix conversion Expression = (A+B^C)*D+E^5
 | **Expression** | **Stack**  | **Output**  | **Comment**  |
 |:----:|:----:|:----:|:----:|
 | 5^E+D*(C^B+A) | Empty | - | Initial |
-| ^E+D*(C^B+A) |  |  |  |
-| E+D*(C^B+A) |  |  |  |
-| +D*(C^B+A) |  |  |  |
-| D*(C^B+A) |  |  |  |
-| * (C^B+A) |  |  |  |
-| (C^B+A) |  |  |  |
-| C^B+A) |  |  |  |
-| ^B+A)  |  |  |  |
-| B+A) |  |  |  |
-| +A) |  |  |  |
-| A) |  |  |  |
-| ) |  |  |  |
-| End |  |  |  |
-| End |  |  |  |
+| ^E+D*(C^B+A) | Empty | 5 | Print |
+| E+D*(C^B+A) | ^ | 5 | Push |
+| +D*(C^B+A) | ^ | 5E | Push |
+| D*(C^B+A) | + | 5E^ | Pop And Push |
+| * (C^B+A) | + | 5E^D | Print |
+| (C^B+A) | +* | 5E^D | Push |
+| C^B+A) | +* ( | 5E^D | Push |
+| ^B+A)  | +* ( | 5E^DC | Print |
+| B+A) | +* (^ | 5E^DC | Push |
+| +A) | +* (^ | 5E^DCB | Print |
+| A) | +* (+ | 5E^DCB^ | Pop And Push |
+| ) | +* (+ | 5E^DCB^A  | Print |
+| End | +* | 5E^DCB^A+ | Pop Until '(' |
+| End | Empty | 5E^DCB^A+ * + | Pop Every element |
  
  -----------------------------------------------------------------------------------------------------------------------------------------
