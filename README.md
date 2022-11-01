@@ -18,3 +18,16 @@
 |**Microcontroller Laboratory (18CSL48)**|
 |:--------------------------------|
 | [Click Here](MC/MC.md) |
+
+### 5th SEM
+
+ 
+|**Computer Network Laboratory (18CSL57)**|
+|:-------|
+|[Click Here](CN/CN.md)|
+
+|**DBMS Laboratory (18CSL58)**|
+|:--------------------------------|
+| [Click Here](DBMS/DBMS.md) |
+
+
